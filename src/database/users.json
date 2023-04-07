@@ -1,0 +1,34 @@
+[
+    {
+        "id": "ae1f8dca-294f-40b4-86f8-26f0213d763d",
+        "firstname": "shoxjaxoon",
+        "username": "shoxjaxoon",
+        "email": "shoxjaxoon@gmail.com",
+        "password": "$2a$12$p3BFEkNRyMOkb3gK6U.x6uxHz0PwXI0vMQhSwF90vvfgt.DGrhNGW",
+        "role": "admin"
+    },
+    {
+        "id": "0daf2bcd-9ab7-436c-8860-830fa459df7c",
+        "firstname": "shoxjaxoon2",
+        "username": "shoxjaxoon2",
+        "email": "shoxjaxoon2@gmail.com",
+        "password": "$2a$12$ENQNTLrWnlKJXPnCYX/vQe397M3e/SSzgfuXCHdzZTu.GEKHEMP8K",
+        "role": "admin"
+    },
+    {
+        "id": "74eab882-4510-43ee-8e9a-3eb418f6878e",
+        "firstname": "matlab",
+        "username": "matlab12",
+        "email": "matlab12@mail.ru",
+        "password": "$2a$12$/zLC7zbStvusYm54/UBNTuQrPgPICcnQxVec5izODNEMoB4tC3AWC",
+        "role": "admin"
+    },
+    {
+        "id": "7f9dba9f-4bf3-409b-832d-cf2d89d4e116",
+        "firstname": "inomjon",
+        "username": "inom33",
+        "email": "inom33@mail.ru",
+        "password": "$2a$12$A0ADMiYPV.gSku/n1/Jcy.i/LKAl94jPJ8kVZK9OQgMvMMsxGz0FK",
+        "role": "admin"
+    }
+]
